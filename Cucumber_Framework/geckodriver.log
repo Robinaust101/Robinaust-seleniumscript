@@ -1,0 +1,38 @@
+1669883584517	geckodriver	INFO	Listening on 127.0.0.1:58962
+1669883587468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileWKwTNP"
+1669883589466	Marionette	INFO	Marionette enabled
+1669883589476	Marionette	INFO	Listening on port 58972
+Read port: 58972
+WebDriver BiDi listening on ws://127.0.0.1:58963
+1669883589909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileWKwTNP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58963/devtools/browser/bb1f5f55-73cb-4006-b45f-b4fb997e2f74
+1669883622627	Marionette	INFO	Stopped listening on port 58972
+[Parent 15524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669883834423	geckodriver	INFO	Listening on 127.0.0.1:59091
+1669883837438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59092" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileV1WH0X"
+1669883838313	Marionette	INFO	Marionette enabled
+1669883838329	Marionette	INFO	Listening on port 59103
+Read port: 59103
+WebDriver BiDi listening on ws://127.0.0.1:59092
+1669883838417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileV1WH0X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59092/devtools/browser/bb57179a-8bfb-4242-85e7-163c999189f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://123.200.20.20:5300."
+JavaScript error: http://123.200.20.20:5300/app-assets/js/core/app-menu.min.js, line 1: TypeError: e is null
+1669883861622	Marionette	INFO	Stopped listening on port 59103
+[Parent 15596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669884072194	geckodriver	INFO	Listening on 127.0.0.1:59300
+1669884075195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileDuuuOy"
+1669884075569	Marionette	INFO	Marionette enabled
+1669884075584	Marionette	INFO	Listening on port 59311
+Read port: 59311
+WebDriver BiDi listening on ws://127.0.0.1:59301
+1669884075739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RAFUQUL\\AppData\\Local\\Temp\\rust_mozprofileDuuuOy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59301/devtools/browser/c90af94d-43bb-4c54-b2f6-8d675b7862bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://123.200.20.20:5300."
+JavaScript error: http://123.200.20.20:5300/app-assets/js/core/app-menu.min.js, line 1: TypeError: e is null
+JavaScript error: http://123.200.20.20:5300/app-assets/js/core/app-menu.min.js, line 1: TypeError: e is null
+1669884107358	Marionette	INFO	Stopped listening on port 59311
+[Parent 11000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
